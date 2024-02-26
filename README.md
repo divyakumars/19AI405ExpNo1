@@ -1,13 +1,10 @@
 <h1>Exp No 1 :Developing AI Agent with PEAS Description</h1>
 <h3>Name: DIVYA.K </h3>
 <h3>Register Number: 212222230035</h3>
-
-
 # AIM:
 <br>
 <p>To find the PEAS description for the given AI problem and develop an AI agent.</p>
 <br>
-
 # THEORY
 <h3>Vacuum Cleaner Agent:</h3>
 <p>Performance Measure: Minimize energy consumption, maximize dirt pick up. Making this precise: one point for each clean square over lifetime of 1000 steps.</p>
